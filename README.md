@@ -4,8 +4,7 @@ This project was created to help content creators from Instagram pages [olam_il]
 
 ## Files Overview
 
-1. **Subtitle_Generator.ipynb** - A Colab notebook that extracts audio from videos, runs Whisper for speech-to-text transcription, and outputs a subtitle file (SRT).
-2. **requirements.txt** - Contains the necessary dependencies for running the project locally.
+**Subtitle_Generator.ipynb** - A Colab notebook that extracts audio from videos, runs Whisper for speech-to-text transcription, and outputs a subtitle file (SRT).
 
 ## Usage Guide
 
